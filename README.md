@@ -34,8 +34,8 @@
 <h2 align= "center"> 📈 Estatísticas do GitHub: </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauaafeelix&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaafeelix&layout=compact&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kauaafeelix&show_icons=true&theme=radical&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaafeelix&layout=compact&theme=radical"/>
 </p>
 
 
@@ -52,4 +52,4 @@
 </p>
 
 
-  <h1 align = "center" >⭐ Obrigado por visitar meu perfil! Vamos codar juntos! 🚀</h1>
+  <h2 align = "center" >⭐ Obrigado por visitar meu perfil! Vamos codar juntos! 🚀</h2>
