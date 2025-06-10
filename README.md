@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Kauã Felix da Silva Costa</h1>
 
-<p align="center">
+<h3 align="center">
   🚀Developer in training | Technology enthusiast <br>
   🎓Learning and creating every day!
-</p>
+</h3>
 
 
   <h2 align = "left"> 💻 Technologies I've learned: </h2>
