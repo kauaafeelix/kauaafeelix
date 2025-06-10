@@ -6,7 +6,7 @@
 </p>
 
 
-  <h2 align = "center"> 💻 Technologies I've learned: </h2>
+  <h2 align = "left"> 💻 Technologies I've learned: </h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -18,7 +18,7 @@
 </p>
 
 
- <h2 align = "center"> 🛠️ Tools & Other Skills: </h2>
+ <h2 align = "left"> 🛠️ Tools & Other Skills: </h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -31,7 +31,7 @@
 
 
 
-<h2 align= "center"> 📈 GitHub Stats: </h2>
+<h2 align= "left"> 📈 GitHub Stats: </h2>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kauaafeelix&show_icons=true&theme=radical&count_private=true"/>
@@ -40,7 +40,7 @@
 
 
 
-<h2 align = "center"> 🌐 Connect with me: </h2>
+<h2 align = "left"> 🌐 Connect with me: </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seuusuario/" target="_blank">
