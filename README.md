@@ -49,7 +49,7 @@
 ## 🌐 Socials:
 <div align = "center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kauaafeelix) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kfelixcosta11@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kauaafeelix) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfelixcosta11@gmail.com) 
 
 </div>
   <h2 align = "center" >⭐ Thank you for visiting my profile! Let's code together! 🚀</h2>
