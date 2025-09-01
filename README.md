@@ -27,7 +27,6 @@
 ![Scrum](https://img.shields.io/badge/Scrum-%230074CD.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Wokwi](https://img.shields.io/badge/Wokwi-6020b0?style=for-the-badge&logo=wokwi&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 </div>
 
