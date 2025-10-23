@@ -13,9 +13,6 @@ Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente 
 <br>
 
 
-
-# 📊 GitHub Stats:
-
 <div align = "center">
 
 <p align="center">
@@ -29,7 +26,7 @@ Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente 
 
 <br>
 
-# 💻 Tech Stack:
+# 💻 Tecnologias:
 <div align="center" style= "display = inline-block">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
