@@ -1,8 +1,35 @@
-<h1 align="center">Hello! I'm Kauã Felix da Silva Costa</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=header"/>
 
-<h3 align="center">
-  🚀Developer in training <br>
-  🎓Learning and creating every day!
+Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente estou no terceiro semestre da aprendizagem industrial em Desenvolvimento de Sistemas pela WEG. Pretendo me tornar um bom desenvolvedor, podendo atuar em diferentes áreas de desenvolvimento web e mobile. Espero que gostem do meu perfil.
+
+<div align = "left">
+
+[![Linkedin Badge](https://img.shields.io/badge/-kauaafeelix-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/kauaafeelix/)
+[![Instagram Badge](https://img.shields.io/badge/-@kauafeelix-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kauafeelix/)](https://instagram.com/kauafeelix)
+[![Gmail Badge](https://img.shields.io/badge/-kfelixcosta11-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kfelixcosta11@gmail.com)](mailto:kfelixcosta11@gmail.com)
+
+</div>
+
+<br>
+
+
+
+# 📊 GitHub Stats:
+
+<div align = "center">
+
+<p align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauaafeelix&show_icons=true&bg_color=000000&title_color=004B9B&text_color=FFFFFF&icon_color=004B9B&hide_border=false&include_all_commits=false&count_private=false" width="500"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaafeelix&layout=compact&bg_color=000000&title_color=004B9B&text_color=FFFFFF&hide_border=false" width="400"/>
+
+</p>
+
+</div>
+
+<br>
+
+<br>
 
 # 💻 Tech Stack:
 <div align="center" style= "display = inline-block">
@@ -25,25 +52,12 @@
 
 </div>
 
+<br>
 
-# 📊 GitHub Stats:
-
-<div align = "center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=kauaafeelix&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=kauaafeelix&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaafeelix&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=kauaafeelix&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
+<br>
 
 
-## 🌐 Socials:
-<div align = "center">
+<p align = 'center'>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kauaafeelix&background=000000&ring=004B9B&fire=FFFFFF&currStreakLabel=004B9B&sideNums=FFFFFF&currStreakNum=004B9B&sideLabels=004B9B&dates=FFFFFF&hide_border=false" width="500"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kauaafeelix)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kfelixcosta11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-
-</div>
-  <h2 align = "center" >⭐ Thank you for visiting my profile! Let's code together! 🚀</h2>
+</p>
