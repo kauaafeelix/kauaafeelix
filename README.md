@@ -29,8 +29,6 @@ Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente 
 
 <br>
 
-<br>
-
 # 💻 Tech Stack:
 <div align="center" style= "display = inline-block">
 
