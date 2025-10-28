@@ -43,7 +43,7 @@ Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente 
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0078d7.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-070D0D?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
