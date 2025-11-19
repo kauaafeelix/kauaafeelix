@@ -40,11 +40,11 @@ Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente 
 ![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0078d7.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Render](https://img.shields.io/badge/Render-070D0D?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-005C84?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
