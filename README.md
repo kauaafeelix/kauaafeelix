@@ -77,7 +77,7 @@ Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente 
 
 
 <p align = 'center'>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kauaafeelix&background=000000&ring=004B9B&fire=FFFFFF&currStreakLabel=004B9B&sideNums=FFFFFF&currStreakNum=004B9B&sideLabels=004B9B&dates=FFFFFF&hide_border=false" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=kauaafeelix&theme=dark&background=000000&ring=004B9B&fire=FFFFFF&currStreakLabel=004B9B&sideNums=FFFFFF&currStreakNum=004B9B&sideLabels=004B9B&dates=FFFFFF&hide_border=false&exclude_days=Sat,Sun" width="500"/>
 
 <br>
 
