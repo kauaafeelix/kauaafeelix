@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=header"/>
 
-Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente estou no quarto e último semestre da aprendizagem industrial em Desenvolvimento de Sistemas no CentroWEG. Pretendo me tornar um bom desenvolvedor, podendo atuar em diferentes áreas de desenvolvimento web e mobile. Espero que gostem do meu perfil.
+Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente estou no quarto e último semestre da aprendizagem industrial em Desenvolvimento de Sistemas no CentroWEG. Hoje, estou focado em aprimorar minhas habilidades em Java e JavaScript. Pretendo me tornar um bom desenvolvedor, podendo atuar em diferentes áreas de desenvolvimento web e mobile. Espero que gostem do meu perfil.
 
 <div align = "left">
 
@@ -32,12 +32,12 @@ Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente 
  <div align="center">
   
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
  </div>
 
@@ -45,7 +45,7 @@ Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente 
 
  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
- ![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  </div>
@@ -53,8 +53,7 @@ Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente 
  <div align = "center">
  
  ![Render](https://img.shields.io/badge/Render-005C84?style=for-the-badge&logo=render&logoColor=white)
- ![Docker-Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Docker%20-2496ED?style=for-the-badge&logo=docker&logoColor=white)
  ![Scrum](https://img.shields.io/badge/Scrum-0078d7.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
   
  </div>
