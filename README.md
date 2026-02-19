@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=header"/>
 
-Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente estou no quarto e último semestre da aprendizagem industrial em Desenvolvimento de Sistemas no CentroWEG. Hoje, estou focado em aprimorar minhas habilidades em Java e JavaScript. Pretendo me tornar um bom desenvolvedor, podendo atuar em diferentes áreas de desenvolvimento web e mobile. Espero que gostem do meu perfil.
+Olá! Me chamo Kauã Felix. Sou um desenvolvedor full-stack junior e atualmente estou no quarto e último semestre da aprendizagem industrial em Desenvolvimento de Sistemas no CentroWEG. Atualmente, estou focado em aprimorar minhas habilidades em Java e JavaScript. Pretendo me tornar um bom desenvolvedor, podendo atuar em diferentes áreas de desenvolvimento web e mobile. Espero que gostem do meu perfil.
 
 <div align = "left">
 
