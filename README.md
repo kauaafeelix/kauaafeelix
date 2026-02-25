@@ -17,7 +17,7 @@ Olá! Me chamo Kauã Felix. Sou um **Desenvolvedor Full-Stack** em aprendizado e
 
 <p align="center">
  
-<img height="180em" src="https://github-readme-stats-beta-seven-51.vercel.app/api?username=kauaafeelix&show_icons=true&bg_color=000000&title_color=004B9B&text_color=FFFFFF&icon_color=004B9B&hide_border=false&include_all_commits=false&count_private=false" width="400"/>
+<img height="180em" src="https://github-readme-stats-beta-seven-51.vercel.app/api?username=kauaafeelix&show_icons=true&bg_color=000000&title_color=004B9B&text_color=FFFFFF&icon_color=004B9B&hide_border=false&include_all_commits=false&count_private=false" width="450"/>
   
 <img height="180em" src="https://github-readme-stats-beta-seven-51.vercel.app/api/top-langs/?username=kauaafeelix&exclude_repo=DocCorp,aprendendo-dart&layout=compact&bg_color=000000&title_color=004B9B&text_color=FFFFFF&hide_border=false"  width="400" />
 </p>
