@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=header"/>
 
-Olá! Me chamo Kauã Felix. Sou um **Desenvolvedor Full-Stack** em aprendizado e atualmente estou no quarto e último semestre da aprendizagem industrial em **Desenvolvimento de Sistemas** no **CentroWEG**. Meu foco está em **Desenvolvimento Back-End**, principalmente com **Java e Spring Boot**. Estou em constante aprendizado para me tornar um bom desenvolvedor, podendo atuar em diferentes áreas de desenvolvimento web e mobile. Espero que gostem do meu perfil. Fiquem a vontade para contribuir.
+<h1>
+ Olá, me chamo Kauã Felix!
+</h1>
+
+Sou um **Desenvolvedor Full-Stack** em aprendizado e atualmente estou no quarto e último semestre da aprendizagem industrial em **Desenvolvimento de Sistemas** no **CentroWEG**. Meu foco está em **Desenvolvimento Back-End**, principalmente com **Java e Spring Boot**. Estou em constante aprendizado para me tornar um bom desenvolvedor, podendo atuar em diferentes áreas de desenvolvimento web e mobile. Espero que gostem do meu perfil. Fiquem a vontade para contribuir.
 
 <div align = "left">
 
