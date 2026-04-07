@@ -58,10 +58,6 @@ Sou um **Desenvolvedor Full-Stack** em aprendizado e atualmente estou no quarto 
  <br>
 
 <p align = 'center'>
-  <img src="https://streak-stats.demolab.com/?user=kauaafeelix&theme=dark&background=000000&ring=004B9B&fire=FFFFFF&currStreakLabel=004B9B&sideNums=FFFFFF&currStreakNum=004B9B&sideLabels=004B9B&dates=FFFFFF&hide_border=false&exclude_days=Sat,Sun" height="180em"/>
-
-<br>
-
   <img src="https://komarev.com/ghpvc/?username=kauaafeelix&style=flat-square&color=0077B5" alt="Contador de Visitas"/>
 
 </p>
