@@ -8,7 +8,7 @@ Sou um **Desenvolvedor Full-Stack** em aprendizado e atualmente estou no quarto 
 
 <div align = "left">
 
-[![Linkedin Badge](https://img.shields.io/badge/-kauaafeelix-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/kauaafeelix/)
+[![Linkedin Badge](https://img.shields.io/badge/-kauafelix-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/kaua-felix)
 [![Instagram Badge](https://img.shields.io/badge/-@kauafeelix-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kauafeelix/)](https://instagram.com/kauafeelix)
 [![Gmail Badge](https://img.shields.io/badge/-kfelixcosta11-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kfelixcosta11@gmail.com)](mailto:kfelixcosta11@gmail.com)
 
