@@ -9,7 +9,6 @@ Sou um **Desenvolvedor Full-Stack** em aprendizado e atualmente estou no quarto 
 <div align = "left">
 
 [![Linkedin Badge](https://img.shields.io/badge/-kauafelix-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-/)](https://www.linkedin.com/in/kaua-felix)
-[![Instagram Badge](https://img.shields.io/badge/-@kauafeelix-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kauafeelix/)](https://instagram.com/kauafeelix)
 [![Gmail Badge](https://img.shields.io/badge/-kfelixcosta11-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kfelixcosta11@gmail.com)](mailto:kfelixcosta11@gmail.com)
 
 </div>
@@ -36,6 +35,7 @@ Sou um **Desenvolvedor Full-Stack** em aprendizado e atualmente estou no quarto 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+ ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
