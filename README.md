@@ -39,7 +39,6 @@ Sou um **Desenvolvedor Full-Stack** em aprendizado e atualmente estou no quarto 
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
  
 
  </div>
@@ -53,6 +52,7 @@ Sou um **Desenvolvedor Full-Stack** em aprendizado e atualmente estou no quarto 
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
  ![Docker](https://img.shields.io/badge/Docker%20-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+ ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
  </div>
 
